@@ -2,3 +2,4 @@ name: CustomModule
 version: '0.1'
 main: net.arcanecloud.customModule.CustomModule
 api-version: '1.21'
+depend: [Quests, AxGens]
